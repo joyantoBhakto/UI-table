@@ -188,7 +188,7 @@ function App() {
             }       
           </div>
             <MaterialTable
-              title="User data from remote source"
+              title="React Material UI Table "
               columns={columns}
               data={data}
               icons={tableIcons}
